@@ -1,0 +1,20 @@
+body {
+  background-color: #eeeeee;
+}
+
+.title {
+  color: rgb(1, 1, 80);
+}
+
+.palette {
+  margin-left: 50px;
+}
+
+.palette__colors-container {
+  display: flex;
+}
+
+.palette__colors-item {
+  width: 100px;
+  height: 100px;
+}

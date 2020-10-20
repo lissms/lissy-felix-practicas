@@ -1,0 +1,8 @@
+Exercise 1
+
+Al hacer click en un botón, coger del API https://randomuser.me/api/?inc=name,picture una foto de perfil, el nombre y el apellido del usuario generado por el API. 
+Una vez obtenidos los datos, pintarlo en un página web con el diseño que que te pasará el diseñador en unos instantes.
+
+Exercise 2
+Luego de escribir un criterio de búsqueda en un input text, al dar click en un botón, traernos la inforción del endpoint http://api.tvmaze.com/search/shows?q=[pasar por aqui la palabra/frase que se desee buscar]  y pintar la información que deseemos. (como minimo nombre e imagen)
+Al hacer click sobre una serie, este debe marcarse/desmarcarse como favorita (color de fondo diferente) y se debe garantizar que si se refresca la página y se hace la misma búsqueda, deben aparecer como favoritas, las series que hayas marcado como tal previamente.  
